@@ -35,4 +35,4 @@
 
 ## 如何下载配套文件
 
-点击页面右上角绿色按钮「Clone or download」－「Down zip」 下载压缩包到本地即可。
+在桌面端打开此网页，点击页面右上角绿色按钮「Clone or download」－「Down zip」 下载压缩包到本地即可。
