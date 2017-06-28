@@ -1,6 +1,6 @@
 # 半撇私塾「新媒体自习室」
 
-> 本仓库为半撇私塾[「新媒体自习室」](http://study.163.com/course/courseMain.htm?courseId=1003502001)课程配套文件。
+> 本仓库为半撇私塾[「新媒体自习室」](http://learn.bpteach.com/course/100)课程配套文件。
 
 ## 课程简介
 
