@@ -22,6 +22,13 @@
 
 1. [新媒体营销 TOP 5 免费课程推荐](https://www.douban.com/doulist/46035403/)
 2. [新媒体营销 TOP 5 学习网站推荐](https://www.zhihu.com/question/28492192/answer/172965112)
-3. [新媒体必备工具推荐](https://github.com/BPteach/New-Media-Toolbox/settings)
+3. [新媒体必备工具推荐](https://github.com/BPteach/New-Media-Toolbox)
 4. [新媒体必读书籍推荐](https://www.douban.com/doulist/46002014/)
+
+## 关注半撇私塾
+
+- [博客](http://www.bpteach.com/blog)
+- [课程](http://learn.bpteach.com/)
+- [知乎](https://zhuanlan.zhihu.com/bpteach)
+- [简书](http://www.jianshu.com/u/8900aa13032c)
 
