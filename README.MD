@@ -16,8 +16,6 @@
 
 在桌面端打开此网页，点击页面右上角绿色按钮「Clone or download」－「Down zip」 下载压缩包到本地即可。
 
-本仓库 [半撇私塾](http://www.bpteach.com/)「突破新媒体运营窘境的6大法则」的直播课程，点击[了解课程信息](https://live.tinfinite.com/live-detail.html?liveshowId=5931218c8f82a918ab876601)。
-
 ## 更多新媒体学习资源
 
 1. [新媒体营销 TOP 5 免费课程推荐](https://www.douban.com/doulist/46035403/)
