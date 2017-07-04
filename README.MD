@@ -27,6 +27,6 @@
 
 - [博客](http://www.bpteach.com/blog)
 - [课程](http://learn.bpteach.com/)
-- [知乎](https://zhuanlan.zhihu.com/bpteach)
+- [知乎](https://www.zhihu.com/org/ban-pie-si-shu-81)
 - [简书](http://www.jianshu.com/u/8900aa13032c)
 
