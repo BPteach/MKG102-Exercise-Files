@@ -1,4 +1,4 @@
-# 半撇私塾「新媒体自习室」
+# M半撇私塾「新媒体自习室」
 
 > 本仓库为半撇私塾[「新媒体自习室」](http://learn.bpteach.com/course/100)课程配套文件。
 
@@ -15,6 +15,28 @@
 ## 如何下载配套文件
 
 在桌面端打开此网页，点击页面右上角绿色按钮「Clone or download」－「Down zip」 下载压缩包到本地即可。
+
+## 课程教学涉及软件
+
+课程节目中介绍了许多软件（部分工具需要 [使用翻墙工具](https://www.bpteach.com/knowledge-base/1025583/) 才可访问）主要包括：
+
+- 01_如何实现微信公众号自动化极速排版：[Markdown Here](https://markdown-here.com/)
+- 02_如何利用UTM监测公众号推广效果：[Google UTM](https://ga-dev-tools.appspot.com/campaign-url-builder/)
+- 03_如何快速剪辑公众号音频文件：[GarageBand](https://www.apple.com/mac/garageband/)
+- 04_如何快速创建产品宣传短视频：[Spark](https://spark.adobe.com/)
+- 05_公众号动态头图：[Powerpoint](https://products.office.com/zh-cn/powerpoint)
+- 06_如何快速实现公众号文章弹幕效果：[135编辑器](https://www.135editor.com/)
+- 07_如何快速提升封面图片的设计感：[Powerpoint](https://products.office.com/zh-cn/powerpoint)
+- 08_如何更极客地生产新媒体内容：[Trello](https://trello.com/)
+- 09_如何为短视频选择完美的配乐：[Marmoset Music](https://www.marmosetmusic.com/)
+- 10_iPhone短视频极速制作指南：[iMovie](https://www.apple.com/cn/imovie/)
+- 11_给新媒体的Github入坑指南：[Github](https://github.com/)
+- 12_如何在PP/:Keynote中快速插入图标文件：[Powerpoint](https://products.office.com/zh-cn/powerpoint) | [Keynote](https://www.apple.com/cn/keynote/)
+- 13_如何将自媒体文章自动输出为音频：[Balabolka](http://www.cross-plus-a.com/balabolka.htm)
+- 14_你不知道的搜索引擎选题法：[百度](https://www.baidu.com/)
+- 15_如何下载任意自媒体文章视频：[Chrome](https://www.google.cn/chrome/index.html)
+- 16_新媒体内容变现的3种价格策略：无
+- 17_如何通过搜索引擎寻找海量的免费商用图片：[Google 图片](https://www.baidu.com/link?url=bdY6qtFCD2QXgMH_HyCgqLDHvuQm8pjSmXW15_GwP3xW8T7KSkSO5zsg_v1beI3E&wd=&eqid=ac2d40590000a4b4000000065a961c82)
 
 ## 更多新媒体学习资源
 
