@@ -1,14 +1,10 @@
 /*
- * NOTE:
- * - The use of browser-specific styles (-moz-, -webkit-) should be avoided.
- *   If used, they may not render correctly for people reading the email in
- *   a different browser than the one from which the email was sent.
- * - The use of state-dependent styles (like a:hover) don't work because they
- *   don't match at the time the styles are made explicit. (In email, styles
- *   must be explicitly applied to all elements -- stylesheets get stripped.)
- */
-
-/* This is the overall wrapper, it should be treated as the `body` section. */
+- 标题: Typora 编辑器微信公众号自定义样式
+- 描述: 本样式代码适用于在Typora编辑器+微信公众号发布的工作流，可避免使用Markdown Here渲染公众号文章项目列表样式丢失的问题，具体的使用方法可参考：http://support.typora.io/Add-Custom-CSS/
+- 作者：半撇
+- 公众号: banpie
+- 更多内容可以学习「微信公众号高级排版指南」（https://learn.bpteach.com/course/24）
+*/
 
 .markdown-here-wrapper {
 }
