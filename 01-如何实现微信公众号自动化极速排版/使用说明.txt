@@ -1,0 +1,6 @@
+# 使用说明
+
+ 本样式代码适用于在Typora编辑器+微信公众号发布的工作流，可避免使用Markdown Here渲染公众号文章项目列表样式丢失的问题，具体的使用方法可参考：http://support.typora.io/Add-Custom-CSS/
+
+更多内容可以学习「微信公众号高级排版指南」：https://learn.bpteach.com/course/24
+
